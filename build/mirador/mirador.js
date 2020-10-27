@@ -33682,7 +33682,7 @@ return /******/ (function(modules) { // webpackBootstrap
       "sidePanelOptions" : {
         "toc" : false,
         "annotations" : false,
-        "tocTabAvailable": false,
+        "tocTabAvailable": true,
         "layersTabAvailable": false,
         "searchTabAvailable": false,
         "annotationTabAvailable": false
