@@ -33427,6 +33427,10 @@ return /******/ (function(modules) { // webpackBootstrap
         'move': false,
         'iconClass': 'image'
       },
+      'compare': {
+        'label': 'Compare',
+        'iconClass': 'columns'
+      },
       'bookReading': {
         'defaultWindowOptions': {
         },
