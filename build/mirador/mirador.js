@@ -33462,14 +33462,14 @@ return /******/ (function(modules) { // webpackBootstrap
       "sidePanel" : true, //whether or not to make the side panel available in this window
       //control what is available in the side panel. if "sidePanel" is false, these options won't be applied
       "sidePanelOptions" : {
-        "toc" : false,
+        "toc" : true,
         "annotations" : false,
         "tocTabAvailable": false,
         "layersTabAvailable": false,
         "searchTabAvailable": false,
         "annotationTabAvailable": false
       },
-      "sidePanelVisible" : false, //whether or not to make the side panel visible in this window on load. This setting is dependent on sidePanel being true
+      "sidePanelVisible" : true, //whether or not to make the side panel visible in this window on load. This setting is dependent on sidePanel being true
       "overlay" : true, //whether or not to make the metadata overlay available/visible in this window
       "canvasControls": { // The types of controls available to be displayed on a canvas
         "annotations" : {
